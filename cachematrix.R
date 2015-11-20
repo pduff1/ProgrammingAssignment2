@@ -5,7 +5,7 @@
 ## matrix object that can cache it's inverse.  The function
 ## resets the cached inverse value to NULL if the value of
 ## the matrix is changed (either when it is initialised or
-## through using the "set" function.  
+## through using the "set" function).  
 ## 
 ##
 ## The second function "cacheSolve" computes the inverse of a
